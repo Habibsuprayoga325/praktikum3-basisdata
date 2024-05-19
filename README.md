@@ -35,3 +35,4 @@ Dosen   : Agung Nugroho, S.Kom., M.Kom.
 Berikut ini adalah langkah-langkah dan penerapan dalam pengimplementasian CONSTRAINT FOREIGN KEY pada Tabel mahasiswa dalam kolom kd_ds
 
 * Pastikan kamu sudah mempunyai sebuah database yang berisi Tabel mahasiswa dan Tabel dosen, dan juga didalam tabel tersebut sudah berisi sebuah data. Berikut adalah contohnya:
+![image](Screenshots/ss1.jpg)
